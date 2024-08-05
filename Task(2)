@@ -1,0 +1,33 @@
+<html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Task 2</title>
+    </head>
+    <body>
+        <script>
+            let a,b  //Declare 2 variables
+            a=1;    //Assign the value 1 to a
+            b=2;    //Assign the value 2 to b
+            c=a+b;  //Assign the sum of a and b to c
+
+            a=1;    //Assign the value 1 to a
+            b=2;    //Assign the value 2 to b
+            c=a-b;  //Assign the difference of a and b to c
+
+            a=1;    //Assign the value 1 to a
+            b=2;    //Assign the value 2 to b
+            c=a*b;  //Assign the product of a and b to c
+
+            a=1;    //Assign the value 1 to a
+            b=2;    //Assign the value 2 to b
+            c=a/b;  //Assign the quotient of a and b to c
+
+
+
+
+        </script>
+    </body>
+    </html>
